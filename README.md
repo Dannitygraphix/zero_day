@@ -1,1 +1,1 @@
-**Strong** __Strong__
+0x00-vagrant
